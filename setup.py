@@ -10,14 +10,11 @@ def readme():
 
 setup(
     name='google-oauth',
-    version='1.0.0',
+    version='1.0.1',
     packages=['google_oauth'],
-    description=(
-        'Google OAuth 2.0 for Server to Server applications implementation. '
-        'Performs JWT-based access token retrieval for Google APIs.'
-    ),
+    description='OAuth2 for Google APIs',
     long_description=readme(),
-    url='https://github.com/miedzinski/google-oauth2-service',
+    url='https://github.com/miedzinski/google-oauth',
     author='Dominik Miedziński',
     license='MIT License',
     classifiers=(
