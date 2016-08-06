@@ -17,7 +17,7 @@ Use ``pip``:
 
     $ pip install google-oauth
 
-Or download code rom GitHub and install it manually with ``setuptools``:
+Or download code from GitHub and install it manually with ``setuptools``:
 
     $ git clone https://github.com/miedzinski/google-oauth2-service.git
     $ cd google-oauth
